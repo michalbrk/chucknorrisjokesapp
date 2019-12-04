@@ -76,7 +76,7 @@ $tabBtnFntSize: 1.4rem;
 $tabTxtFntSize: 1rem;
 $desNavFntSize: 1.7rem;
 $desBtnFntSize: 1.5rem;
-$desTxtFntSize: 1rem;
+$desTxtFntSize: 1.1rem;
 $hdDesNavFntSize: 1.9rem;
 
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,600,700);

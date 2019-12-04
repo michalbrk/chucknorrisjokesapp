@@ -263,14 +263,14 @@ body {
 @media screen and (min-width: 900px) {  
   #app {
     .nav-bar {
-      margin-top: 4vh;
+      margin-top: 2vh;
       .img {
         width: 90px;
         height: 90px;
-        margin-left: 4vw;
+        margin-left: 2vw;
       }
       .title {
-        margin-left: 3vw;
+        margin-left: 2vw;
         font-size: $hdDesNavFntSize;
       }
     }

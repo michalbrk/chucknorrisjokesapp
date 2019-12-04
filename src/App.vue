@@ -263,7 +263,7 @@ body {
 @media screen and (min-width: 900px) {  
   #app {
     .nav-bar {
-      margin-top: 2vh;
+      margin-top: 1vh;
       .img {
         width: 90px;
         height: 90px;

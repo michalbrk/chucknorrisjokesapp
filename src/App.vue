@@ -76,7 +76,7 @@ $tabBtnFntSize: 1.4rem;
 $tabTxtFntSize: 1rem;
 $desNavFntSize: 1.7rem;
 $desBtnFntSize: 1.5rem;
-$desTxtFntSize: 1rem;
+$desTxtFntSize: 1.1rem;
 $hdDesNavFntSize: 1.9rem;
 
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,600,700);
@@ -263,14 +263,14 @@ body {
 @media screen and (min-width: 900px) {  
   #app {
     .nav-bar {
-      margin-top: 4vh;
+      margin-top: 1vh;
       .img {
         width: 90px;
         height: 90px;
-        margin-left: 4vw;
+        margin-left: 2vw;
       }
       .title {
-        margin-left: 3vw;
+        margin-left: 2vw;
         font-size: $hdDesNavFntSize;
       }
     }
